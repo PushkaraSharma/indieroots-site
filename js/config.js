@@ -1,7 +1,6 @@
-/* Paste GymKarta store URLs here. Leave blank until you have them. */
 window.INDIE_ROOTS = {
   gymkarta: {
-    appStore: "",
-    playStore: ""
+    appStore: "https://apps.apple.com/in/app/gymkarta-gym-management/id6761456834",
+    playStore: "https://play.google.com/store/apps/details?id=com.indieroots.gymetric"
   }
 };
